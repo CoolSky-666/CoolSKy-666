@@ -9,3 +9,4 @@
 ![Software](https://img.shields.io/badge/Software-OpenMC-B22222?)
 ![Specialty](https://img.shields.io/badge/Interest-PPTX-DAA520?)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolSky-666&show_icons=true&theme=dark)](https://github.com/CoolSky-666)
