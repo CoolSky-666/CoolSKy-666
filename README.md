@@ -5,6 +5,7 @@
 + Visualization of university physics cases
 + Translation of classic physics books, including "Classical Mechanics", "Classical Electrodynamcis" and so on.
 
-![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
-![Tool](https://img.shields.io/badge/Tool-OpenMC-orange?style=for-the-badge)
-![Skill](https://img.shields.io/badge/Excel%20PPT-PPTX-lightgrey?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Python-3572A5?)
+![Software](https://img.shields.io/badge/Software-OpenMC-B22222?)
+![Specialty](https://img.shields.io/badge/Interest-PPTX-DAA520?)
+
