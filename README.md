@@ -11,3 +11,4 @@ Busy in the following work:
 ![Specialty](https://img.shields.io/badge/Interest-PPTX-DAA520?)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolSKy-666)
