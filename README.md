@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=008BFF&width=435&lines=This+is+CoolSky-666)](https://git.io/typing-svg)
 
----
-
 ## 👋 About Me
 
 Graduate student in Nuclear Engineering & Plasma Physics, specializing in reactor physics (OpenMC) and plasma physics research.
